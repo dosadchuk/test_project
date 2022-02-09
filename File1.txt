@@ -1,2 +1,4 @@
 Hello world
 Hi!
+
+Hi fom promt
